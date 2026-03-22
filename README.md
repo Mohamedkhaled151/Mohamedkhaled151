@@ -1,65 +1,87 @@
-# 👨‍💻 Code Mindset
+<h1 align="center">👨‍💻 Code Mindset</h1>
 
-### Building developers, not just coders
-
----
-
-## 🚀 About Me
-
-I’m focused on building **programming thinking** and strong foundations in software development.
-
-This is not about memorizing code —  
-it's about understanding how things work.
+<p align="center">
+  <b>Building developers, not just coders</b><br>
+  Programming Thinking • Problem Solving • Real Engineering
+</p>
 
 ---
 
-## 🧠 What I Care About
+## 🧠 About
 
-- Problem Solving  
-- Systems Thinking  
-- Clean Code  
-- Software Architecture  
-- Developer Mindset  
+I’m building **Code Mindset** — a platform focused on:
 
----
+- Thinking like a programmer  
+- Understanding systems  
+- Building strong software foundations  
 
-## 📚 Learning Journey
-
-I believe that great developers are built through:
-
-- Deep understanding  
-- Consistent practice  
-- Real problem solving  
-- Strong fundamentals  
-
----
-
-## 🛠️ What I'm Building
-
-- 📌 Code Mindset (Educational Content)  
-- 📌 Programming Foundations  
-- 📌 Developer Thinking Systems  
-
----
-
-## 📈 Goals
-
-- Help developers think, not just code  
-- Build a strong learning roadmap  
-- Share real software engineering knowledge  
+This is not about memorizing code.  
+This is about **how developers think**.
 
 ---
 
 ## ⚡ Philosophy
 
-> Not everyone who writes code is a programmer.
+> Not everyone who writes code is a programmer.  
+> Real developers understand what they build.
 
 ---
 
-## 🌍 Connect With Me
+## 🚀 Focus Areas
 
-- Coming soon...
+<p align="center">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-0A66C2?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-6A0DAD?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Thinking-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Code-0F9D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-8A2BE2?style=for-the-badge"/>
+
+</p>
 
 ---
 
-⭐ Follow the journey of becoming a real developer
+## 🧩 What I'm Building
+
+- 📌 Code Mindset (Educational Platform)  
+- 📌 Programming Roadmaps  
+- 📌 Developer Thinking Systems  
+- 📌 Real-world Engineering Concepts  
+
+---
+
+## 📚 Learning Approach
+
+✔ Understand before writing code  
+✔ Focus on logic, not syntax  
+✔ Build systems, not scripts  
+✔ Think like an engineer  
+
+---
+
+## 📈 Current Goal
+
+Building a complete roadmap that takes you from:
+**Beginner → Real Developer**
+
+---
+
+## 🔥 Vision
+
+To help developers:
+- Stop memorizing code  
+- Start understanding it  
+- Build real engineering skills  
+
+---
+
+## 🌐 Connect
+
+Coming soon...
+
+---
+
+<p align="center">
+  ⚡ Follow the journey of becoming a real developer
+</p>
